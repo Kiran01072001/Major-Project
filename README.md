@@ -1,4 +1,4 @@
-                                                                                     # Image Classification Using Convolutional Neural Networks (CNNs) Project
+                                 # Image Classification Using Convolutional Neural Networks (CNNs) Project
 
 
 
